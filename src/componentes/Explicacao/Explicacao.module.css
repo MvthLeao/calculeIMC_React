@@ -4,7 +4,7 @@
 }
 
 .imc, .formulario {
-    max-width: 50%;
+    max-width: 70%;
     width: 100%;
     margin: 10px;
     padding: 20px;    
@@ -18,6 +18,8 @@
 }
 
 .formulario {
+    max-width: 30%;
+    width: 100%;
     background-color: rgb(76, 75, 75);
     display: flex;
     flex-direction: column;
