@@ -1,0 +1,11 @@
+.cabecalho {
+    margin: 15px;
+    color: rgb(15, 15, 115);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
