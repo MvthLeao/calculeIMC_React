@@ -3,7 +3,7 @@ import styles from "./Categoria.module.css";
 import imagem from "./images/categorias.png";
 
 const Categoria = () => {
-    return(
+    return (
         <>
             <div className={styles.titulo}>
                 <h2>CONFIRA EM QUE CATEGORIA SE ENCAIXA</h2>
